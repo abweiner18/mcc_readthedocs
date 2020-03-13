@@ -10,7 +10,7 @@ Welcome to Test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Anita_wk7_rst.rst
+   Anita_wk7_rst
 
 
 
