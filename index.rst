@@ -12,10 +12,6 @@ Welcome to Test's documentation!
 
    Anita_wk7_rst
 
-
-
-
-
 Indices and tables
 ==================
 
