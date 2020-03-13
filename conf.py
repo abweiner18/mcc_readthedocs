@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test'
+project = 'mcc_readthedocs'
 copyright = '2020, Anita Weiner'
 author = 'Anita Weiner'
 
